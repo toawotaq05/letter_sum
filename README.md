@@ -1,4 +1,5 @@
 # Letter sum
+Implement letter sum function.
 
 ## Documentation: 
 lettersum("") => 0
